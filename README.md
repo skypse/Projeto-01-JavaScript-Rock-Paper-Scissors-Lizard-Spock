@@ -15,6 +15,9 @@
 - HTML
 - CSS
 
+## Acesso
+[Acesse o projeto clicando aqui :)](https://skypse.github.io/Projeto-01-JavaScript-Rock-Paper-Scissors-Lizard-Spock/)
+
 # Contato
 [(LinkedIn)](https://www.linkedin.com/in/gabriel-do-amaral-alves-3a1055236/)
 -----
