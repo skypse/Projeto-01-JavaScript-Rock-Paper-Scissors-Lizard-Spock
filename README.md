@@ -1,6 +1,6 @@
 # Pedra, Papel, Tesoura, Lagarto e Spock
 
-<div align="center">
+<div>
   <img src="https://github.com/skypse/Projeto-01-JavaScript-Rock-Paper-Scissors-Lizard-Spock/assets/97822775/da1d08d6-d44b-4cda-9a82-51b13abb08e4" alt="">
 </div>
 
